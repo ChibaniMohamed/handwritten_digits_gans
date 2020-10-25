@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib.pyplot as plt
 from keras.datasets import mnist
 from keras.models import Sequential,Model
 from keras.layers import Dense,LeakyReLU,Input
